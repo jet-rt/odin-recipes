@@ -1,0 +1,4 @@
+{
+  "prettier.bracketSameLine": true,
+  "html.format.wrapLineLength": 0
+}
